@@ -20,7 +20,7 @@ export default class Enemy {
     ctx.fillRect(this.x, this.y, this.width, this.height);
     ctx.strokeRect(this.x, this.y, this.width, this.height);
 
-    //Draw Text
+
     ctx.fillStyle = "black";
     ctx.font = "25px Arial";
     ctx.fillText(
