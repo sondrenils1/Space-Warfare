@@ -1,15 +1,6 @@
 export default class Bullet {
-  //   colors = [
-  //     "red",
-  //     "blue",
-  //     "red",
-  //     "green",
-  //     "yellow",
-  //     "orange",
-  //     "purple",
-  //     "pink",
-  //     "brown",
-  //     "grey",
+  //   farger = [
+  //    
   //   ];
 
   constructor(x, y, speed, damage) {
